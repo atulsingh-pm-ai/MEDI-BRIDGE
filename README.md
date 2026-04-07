@@ -1,6 +1,6 @@
 # Medi-Bridge 🏥
 
-An AI-powered medical assistant mobile app that helps patients understand their prescriptions, lab reports, and health conditions — in plain language.
+An AI-powered medical agentic mobile app that helps patients understand their prescriptions, lab reports, and health conditions — in plain language.
 
 ---
 
